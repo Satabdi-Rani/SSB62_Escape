@@ -1,0 +1,282 @@
+/*header start*/
+    /*font-family: 'Secular One', sans-serif;
+    font-family: 'Lato', sans-serif;*/
+body {
+    font-family: 'Lato', sans-serif;*/
+}
+header{
+	background-image: url(../images/first-image.png);
+	/*min-height:600px;*/
+	background-repeat: no-repeat;
+	background-position: cover;
+	background-size: cover;
+}
+.logo{
+	font-family: 'Secular One', sans-serif;
+	text-transform: uppercase;
+	color:white !important;
+	font-size:32px;
+}
+.logo_image{
+	font-size:32px;
+	color:white;
+}
+.custom_nav{
+	margin: 0 45px;
+}
+.navbar.navbar-expand-lg {
+	padding:40px 0;
+}
+.nav-link {
+	color:white ;
+	margin:0 15px;
+}
+.title.text-center {
+	padding-top: 90px;
+}
+.h5_title{
+	color:white;
+	font-weight: 300;
+	font-size:24px;
+}
+.h1_title{
+	text-transform: uppercase;
+	color:white;
+	font-weight: 700;
+	padding-top: 30px;
+	padding-bottom:40px;
+	font-size:53px;
+}
+.learn{
+	font-size:20px;
+}
+.btn.btn-outline-light {
+	padding: 10px 44px;
+}
+/*header end*/
+/*development start*/
+.develop {
+	padding:100px 0;
+}
+.develop_text {
+	margin: 0 88px;
+}
+.develop_title{
+	padding:15px 0;
+}
+.develop_p{
+	padding: 15px 0;
+}
+.col-md-4.float-right {
+}
+.develop_img {
+	width:80%;
+}
+/*development end*/
+/*Identity start*/
+.indentity {
+	background-color: #fafafa;
+	padding: 100px 0;
+}
+/*Identity end*/
+/*Branding start*/
+.branding {
+	    padding: 106px;
+}
+.row.custom_row_brand{
+	padding:25px 0;
+}
+.col-md-6 .custom_brand {
+	overflow:hidden;
+}
+.brand_img.float-left {
+	    margin-left: 125px;
+}
+.brand.float-right {
+	    width: 56%;
+}
+.brand_head{
+	font-weight: 700;
+}
+.brand_pera{
+	
+}
+/*Branding end*/
+/*clients start*/
+.clients {
+	background-color: #fafafa;
+	/*padding: 24px;*/
+	padding: 14px;
+    padding-bottom: 41px;
+}
+
+.container {
+}
+.custom_text{
+	margin-bottom: 69px;
+}
+.row {
+}
+.custom_row_client{
+	margin-bottom: 51px;
+}
+.col-md-12 {
+}
+
+.title2.text-center {
+	color:black;
+}
+.title2 h1{
+   font-size: 3.5rem;
+}
+
+.title2 p{
+     font size:29px;
+}
+.col-md-4 {
+}
+
+.c_photo {
+}
+.img{
+	
+}
+.col-md-8 {
+}
+
+.wrapper {
+	background-color: #ffffff;
+	border:1px solid #f2f2f2;
+	    margin: 16px;
+    padding: 24px;
+	position:relative;
+}
+
+.wp1 {
+}
+.img-circle{
+	width: 178px;
+    height: 170px;
+    border-radius: 209px;
+   
+}
+
+.wp2 {
+	position:absolute;
+	    left: -23px;
+    top: 59px;
+}
+.wp2.custom_arrow{
+	position:absolute;
+	left: 100%;
+}
+.logo_wrapper{
+    overflow:hidden;
+    padding-top:67px;
+}
+.logo_wrapper ul{
+	float:left;
+}
+.logo_wrapper ul li{
+	list-style: none;
+	float:left;
+}
+.logo_wrapper ul li a{
+	margin:27px;
+}
+/*clients end*/
+
+/*team start*/
+.team{
+	background-color: #111111;
+	padding-bottom:90px ;
+}
+.amaze{
+	color:white !important;
+	padding-bottom:76px;
+}
+.client_image{
+	margin-left:83px;
+	padding-bottom:22px;
+}
+.icons_team{
+  overflow:hidden;
+  margin:0 68px;
+  padding-bottom:52px;
+}
+.icons_team ul{
+	float:left;
+}
+.icons_team ul li{
+	list-style: none;
+	float:left;
+}
+.icons_team ul li a{
+	border-radius: 16px;
+    color: white;
+    font-size: 27px;
+    border: 1px solid white;
+    margin: 9px;
+    padding: 3px;
+}
+.team{
+	color:white;
+}
+.title2{
+	    color: white;
+    width: 51%;
+    margin-left: 26%;
+
+}
+/*team end*/
+/*footer start*/
+footer{
+	background-color: #7690c5;
+	padding-top:100px;
+	padding-bottom:27px;
+}
+.hello{
+    color:white;
+}
+
+.footer_header{
+	    font-size: 3.5rem;
+	    padding-bottom:35px;
+}
+.footer_para{
+	font size:24px;
+	padding-bottom:21px;
+}
+.social_info{
+	
+}
+.l_foot{
+
+}
+.img_sc{
+	    padding-right: 23px;
+	    padding-top: 14px;
+}
+.text_sc{
+	padding-top: 14px;
+}
+.r_foot{
+
+}
+textarea.form-control{
+	height:200px;
+}
+.foot_copyright hr{
+	color:white;
+}
+.cright{
+	color:white;
+}
+.foot_copyright{
+	margin-top: 80px;
+}
+.cright{
+	    margin-top: 31px;
+	    font-size:18px;
+}
+/*footer end*/
